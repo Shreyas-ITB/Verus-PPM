@@ -3,7 +3,7 @@ This is a basic artificial intelligence model from Keras module that predicts th
 
 ## Dataset
 
-The model dataset is automatically fetched by the python file from [yahoo finance]{ https://finance.yahoo.com/quote/VRSC-USD?p=VRSC-USD} website. The price gets tracked from the specified time range in the python file and gets converted to a proper dataset with which the model trains on.
+The model dataset is automatically fetched by the python file from [yahoo finance]{https://finance.yahoo.com/quote/VRSC-USD?p=VRSC-USD} website. The price gets tracked from the specified time range in the python file and gets converted to a proper dataset with which the model trains on.
 
 ## Instructions
 
